@@ -1,19 +1,23 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+
+*Name: Jessica Garrett
+*UnityID: jlgarre3
+*Date: 11.14.2023
+*Assignment: Guided Lab 4
+*Description: Guided Lab 4 Styling
  */
  
 p {
-    property: value;
+    font-family: Times;
+	font-size: 16px;
+	color: #290715;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: lpx solid #290715;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+	max-height: 300px;
 }
