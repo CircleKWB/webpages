@@ -1,19 +1,21 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Jessica Garrett
+ *UnityID: jlgarre3
+ *Date: 11.16.2023
+ *Assignment: Independent Assignment 4
+ *Description: Website Design and Styling 
  */
  
 p {
-    property: value;
+    background-color: #b8d4be;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 3px solid #000000;
 }
 
-#id {
-    property:value;
+#photo-style {
+    border: 2px outset #107a25;
+    max-width: 200px;
+    max-height: 250px;
 }
